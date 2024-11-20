@@ -19,7 +19,7 @@ public class Ejemplo011 {
         int contador = 1;
         
         while (contador <= limete){
-            System.out.printf("%d\n", 1);
+            System.out.printf("%d\n", contador);
             contador = contador +1;
         }
     }
